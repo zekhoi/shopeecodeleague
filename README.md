@@ -1,0 +1,2 @@
+# shopeecodeleague
+Wrong Algorithm
